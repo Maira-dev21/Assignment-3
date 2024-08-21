@@ -41,8 +41,8 @@ print("percentagecalculate",percentagecalculate)
 # //write a program that calculates the BMI using height in meters and weight in kilograms?
 weight = 70 
 height = 120
-BMI  = weight / height
-print("BMI",BMI)
+Bmi  = weight / height
+print("BMI",Bmi)
 # Question 7
 # //write a program that calculates the volume of cylinder?
 pi = 3.14
